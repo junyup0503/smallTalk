@@ -1,0 +1,28 @@
+{
+  "name": "smalltalk",
+  "version": "1.0.0",
+  "description": "sideProject",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon src/bin/www"
+  },
+  "author": {
+    "name": "wnsduq0503",
+    "email": "wnsduq0503@bbangyanetworks.com"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
